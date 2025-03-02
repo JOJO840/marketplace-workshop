@@ -16,7 +16,6 @@ header{
 section{
     margin-top: 20px;
     margin-bottom: 20px;
-    text-align: center;
     background-color: #fff;
     border-radius: 15px;
 }
@@ -42,6 +41,7 @@ h2{
 }
 .email-field{
     margin-bottom: auto;
+    padding: 0,5%;
 }
 
 #products button{
@@ -50,4 +50,14 @@ h2{
     padding: auto;
     border: 0;
     border-radius: 8px;
+}
+
+footer{
+    margin-top: 20px;
+    padding: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5%;
+    box-shadow: #fff;
+    text-align: center;
+    color: #fff;
 }

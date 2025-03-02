@@ -1,0 +1,53 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:  #d4d0d0;
+    color: #333;
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-color: #d10000;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+
+section{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 15px;
+}
+
+h2{
+    color: #4CAF50;
+    text-align: center
+}
+
+#products{
+    margin: 10px auto;
+    padding: 10px;
+    max-width: 600px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+#products img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-top: auto;
+
+}
+.email-field{
+    margin-bottom: auto;
+}
+
+#products button{
+    background-color: #4CAF50;
+    color: #fff;
+    padding: auto;
+    border: 0;
+    border-radius: 8px;
+}
